@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dhanush027.github.io/csb-h5lrr/static/css/main.79a73f8c.chunk.css",
+    "main.js": "https://dhanush027.github.io/csb-h5lrr/static/js/main.ee19796b.chunk.js",
+    "main.js.map": "https://dhanush027.github.io/csb-h5lrr/static/js/main.ee19796b.chunk.js.map",
+    "runtime-main.js": "https://dhanush027.github.io/csb-h5lrr/static/js/runtime-main.a4a3d3b5.js",
+    "runtime-main.js.map": "https://dhanush027.github.io/csb-h5lrr/static/js/runtime-main.a4a3d3b5.js.map",
+    "static/js/2.9c215db1.chunk.js": "https://dhanush027.github.io/csb-h5lrr/static/js/2.9c215db1.chunk.js",
+    "static/js/2.9c215db1.chunk.js.map": "https://dhanush027.github.io/csb-h5lrr/static/js/2.9c215db1.chunk.js.map",
+    "index.html": "https://dhanush027.github.io/csb-h5lrr/index.html",
+    "static/css/main.79a73f8c.chunk.css.map": "https://dhanush027.github.io/csb-h5lrr/static/css/main.79a73f8c.chunk.css.map",
+    "static/js/2.9c215db1.chunk.js.LICENSE.txt": "https://dhanush027.github.io/csb-h5lrr/static/js/2.9c215db1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4a3d3b5.js",
+    "static/js/2.9c215db1.chunk.js",
+    "static/css/main.79a73f8c.chunk.css",
+    "static/js/main.ee19796b.chunk.js"
+  ]
+}
